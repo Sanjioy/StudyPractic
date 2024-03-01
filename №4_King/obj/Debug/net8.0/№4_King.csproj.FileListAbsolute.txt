@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\bin\Debug\net8.0\№4_King.exe
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\bin\Debug\net8.0\№4_King.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\bin\Debug\net8.0\№4_King.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\bin\Debug\net8.0\№4_King.dll
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\bin\Debug\net8.0\№4_King.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.dll
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\refint\№4_King.dll
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\№4_King.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№4_King\obj\Debug\net8.0\ref\№4_King.dll

@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\bin\Debug\net8.0\№3_Queen.exe
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\bin\Debug\net8.0\№3_Queen.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\bin\Debug\net8.0\№3_Queen.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\bin\Debug\net8.0\№3_Queen.dll
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\bin\Debug\net8.0\№3_Queen.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.dll
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\refint\№3_Queen.dll
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\№3_Queen.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№3_Queen\obj\Debug\net8.0\ref\№3_Queen.dll

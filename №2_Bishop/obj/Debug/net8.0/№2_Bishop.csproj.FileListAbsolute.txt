@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\bin\Debug\net8.0\№2_Bishop.exe
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\bin\Debug\net8.0\№2_Bishop.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\bin\Debug\net8.0\№2_Bishop.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\bin\Debug\net8.0\№2_Bishop.dll
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\bin\Debug\net8.0\№2_Bishop.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.dll
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\refint\№2_Bishop.dll
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\№2_Bishop.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№2_Bishop\obj\Debug\net8.0\ref\№2_Bishop.dll

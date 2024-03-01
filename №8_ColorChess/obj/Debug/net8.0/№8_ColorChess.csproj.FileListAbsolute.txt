@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\bin\Debug\net8.0\№8_ColorChess.exe
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\bin\Debug\net8.0\№8_ColorChess.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\bin\Debug\net8.0\№8_ColorChess.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\bin\Debug\net8.0\№8_ColorChess.dll
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\bin\Debug\net8.0\№8_ColorChess.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.dll
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\refint\№8_ColorChess.dll
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\№8_ColorChess.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№8_ColorChess\obj\Debug\net8.0\ref\№8_ColorChess.dll

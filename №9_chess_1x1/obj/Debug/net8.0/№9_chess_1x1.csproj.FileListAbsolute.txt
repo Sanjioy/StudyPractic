@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\bin\Debug\net8.0\№9_chess_1x1.exe
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\bin\Debug\net8.0\№9_chess_1x1.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\bin\Debug\net8.0\№9_chess_1x1.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\bin\Debug\net8.0\№9_chess_1x1.dll
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\bin\Debug\net8.0\№9_chess_1x1.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.dll
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\refint\№9_chess_1x1.dll
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\№9_chess_1x1.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№9_chess_1x1\obj\Debug\net8.0\ref\№9_chess_1x1.dll

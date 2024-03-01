@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\bin\Debug\net8.0\№10_ChessCoord.exe
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\bin\Debug\net8.0\№10_ChessCoord.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\bin\Debug\net8.0\№10_ChessCoord.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\bin\Debug\net8.0\№10_ChessCoord.dll
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\bin\Debug\net8.0\№10_ChessCoord.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.dll
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\refint\№10_ChessCoord.dll
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\№10_ChessCoord.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№10_ChessCoord\obj\Debug\net8.0\ref\№10_ChessCoord.dll

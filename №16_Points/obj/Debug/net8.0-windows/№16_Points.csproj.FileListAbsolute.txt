@@ -1,0 +1,16 @@
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\bin\Debug\net8.0-windows\№16_Points.exe
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\bin\Debug\net8.0-windows\№16_Points.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\bin\Debug\net8.0-windows\№16_Points.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\bin\Debug\net8.0-windows\№16_Points.dll
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\bin\Debug\net8.0-windows\№16_Points.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\_16_Points.Form1.resources
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.csproj.GenerateResource.cache
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.dll
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\refint\№16_Points.dll
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\№16_Points.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№16_Points\obj\Debug\net8.0-windows\ref\№16_Points.dll

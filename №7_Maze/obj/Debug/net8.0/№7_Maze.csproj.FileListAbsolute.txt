@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\bin\Debug\net8.0\№7_Maze.exe
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\bin\Debug\net8.0\№7_Maze.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\bin\Debug\net8.0\№7_Maze.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\bin\Debug\net8.0\№7_Maze.dll
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\bin\Debug\net8.0\№7_Maze.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.dll
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\refint\№7_Maze.dll
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\№7_Maze.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№7_Maze\obj\Debug\net8.0\ref\№7_Maze.dll

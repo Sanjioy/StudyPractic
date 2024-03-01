@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\bin\Debug\net8.0\№6_Shadow.exe
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\bin\Debug\net8.0\№6_Shadow.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\bin\Debug\net8.0\№6_Shadow.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\bin\Debug\net8.0\№6_Shadow.dll
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\bin\Debug\net8.0\№6_Shadow.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.dll
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\refint\№6_Shadow.dll
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\№6_Shadow.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№6_Shadow\obj\Debug\net8.0\ref\№6_Shadow.dll

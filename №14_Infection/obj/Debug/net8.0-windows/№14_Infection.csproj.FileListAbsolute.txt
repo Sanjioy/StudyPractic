@@ -1,0 +1,16 @@
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\bin\Debug\net8.0-windows\№14_Infection.exe
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\bin\Debug\net8.0-windows\№14_Infection.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\bin\Debug\net8.0-windows\№14_Infection.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\bin\Debug\net8.0-windows\№14_Infection.dll
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\bin\Debug\net8.0-windows\№14_Infection.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\_14_Infection.Form1.resources
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.csproj.GenerateResource.cache
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.dll
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\refint\№14_Infection.dll
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\№14_Infection.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№14_Infection\obj\Debug\net8.0-windows\ref\№14_Infection.dll

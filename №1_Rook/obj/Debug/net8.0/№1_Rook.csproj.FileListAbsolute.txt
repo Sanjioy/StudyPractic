@@ -1,0 +1,14 @@
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\bin\Debug\net8.0\№1_Rook.exe
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\bin\Debug\net8.0\№1_Rook.deps.json
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\bin\Debug\net8.0\№1_Rook.runtimeconfig.json
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\bin\Debug\net8.0\№1_Rook.dll
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\bin\Debug\net8.0\№1_Rook.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.AssemblyInfoInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.AssemblyInfo.cs
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.dll
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\refint\№1_Rook.dll
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\№1_Rook.genruntimeconfig.cache
+C:\Users\sudan\OneDrive\Документы\УП\№1_Rook\obj\Debug\net8.0\ref\№1_Rook.dll

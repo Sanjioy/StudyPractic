@@ -1,0 +1,10 @@
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\№13_FoxAndChicken.csproj.AssemblyReference.cache
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\_13_FoxAndChicken.Properties.Resources.resources
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\№13_FoxAndChicken.csproj.GenerateResource.cache
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\№13_FoxAndChicken.csproj.CoreCompileInputs.cache
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\bin\Debug\№13_FoxAndChicken.exe.config
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\bin\Debug\№13_FoxAndChicken.exe
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\bin\Debug\№13_FoxAndChicken.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\№13_FoxAndChicken.exe
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\№13_FoxAndChicken.pdb
+C:\Users\sudan\OneDrive\Документы\УП\№13_FoxAndChicken\obj\Debug\_13_FoxAndChicken.Form1.resources
